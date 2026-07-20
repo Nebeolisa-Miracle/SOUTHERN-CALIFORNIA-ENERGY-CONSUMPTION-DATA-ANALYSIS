@@ -61,7 +61,7 @@ The dataset contains energy consumption records from residential, commercial, an
 
 ### Key Insights
 
-1. Residential buildings consumed the most energy, accounting for over 665,000 kWh—more than commercial and industrial buildings combined.
+1. Residential buildings consumed the most energy, accounting for over 665,000 kWh, more than commercial and industrial buildings combined.
 2. Energy consumption increased during peak occupancy periods, showing a strong link between human activity and electricity demand.
 3. Older buildings and equipment recorded higher energy usage, suggesting lower energy efficiency.
 4. Higher HVAC and lighting usage significantly increased total energy consumption, making them major drivers of electricity demand.
@@ -79,13 +79,26 @@ The dataset contains energy consumption records from residential, commercial, an
 7. Adopt renewable energy solutions, such as solar power, to reduce dependence on traditional energy sources.
 8. Monitor carbon emissions alongside energy usage to support sustainability goals and environmental planning.
 
-## 📈 Dashboard Preview
+### Dashboard Preview
 
-*(Insert screenshots of your Power BI dashboard here.)*
+<img width="716" height="503" alt="Energy 1" src="https://github.com/user-attachments/assets/8c4d1eb6-5e71-4e76-988f-fed17194ba5b" /> 
 
----
+<img width="713" height="504" alt="Energy 2" src="https://github.com/user-attachments/assets/e0fb2778-204f-4677-ae98-43bbedb5b2af" />
 
+ ### Medium Article:
+Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/southern-california-energy-consumption-data-analysis-352f2b364741?sharedUserId=nebeolisamiracle99)
+
+
+### Author:
+
+### Nebeolisa Miracle
+
+**Data Analyst | Data Analytics Tutor | Problem Solver**
+
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/nebeolisa-miracle)
  
 
-## ⭐ If you found this project insightful, kindly give this repository a star.
+
+
 
